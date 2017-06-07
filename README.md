@@ -44,7 +44,7 @@ In this problem you need to implement a solution to maze puzzle by using Depth F
 (DFS), you are allowed to keep track of visited states (search is a graph for this problem). The
 solution should print all sequence of moves that you apply to reach to a goal state.
 
-<h3>Problem 4- Maze Puzzle (Uninformed-Iterative Deepening)<h3>
+<h3>Problem 4- Maze Puzzle (Uninformed-Iterative Deepening)</h3>
 In this problem you need to implement a solution to maze puzzle by using Iterative Deepening
 (IDS), you are allowed to keep track of visited states. The solution should print all sequence of
 moves that you apply to reach to a goal state.
